@@ -13,6 +13,7 @@
   "dependencies": {
     "gh-pages": "^1.2.0",
     "modern_portfolio": "file:",
+    "myeaglecare": "file:",
     "node-sass": "^4.13.1"
   }
 }
